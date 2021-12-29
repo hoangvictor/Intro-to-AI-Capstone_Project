@@ -1,3 +1,4 @@
-# Introduction-to-Artificial-Intelligence
-
-I learned something related to AI at university and in this repo, there is a project related to search algorithms I did with my team.
+- Execute only the file results_analysis.py in order to get the results 
+for analysis.
+- Execute the file visualzation.py to see the visualization of our 
+algorithms (need to install pygame module first)
