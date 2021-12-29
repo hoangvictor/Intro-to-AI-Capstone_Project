@@ -7,3 +7,4 @@ In this project, we have a grayscale topographic map of a part of Mars and some 
 **Note:**
 - Execute only the file results_analysis.py in order to get the results for analysis.
 - Execute the file visualzation.py to see the visualization of our algorithms (need to install pygame module first)
+- There are 2 pdf files here: the report file and the presentation file (in these files, we presented our final results and our analysis)
